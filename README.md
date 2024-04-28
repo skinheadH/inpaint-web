@@ -61,33 +61,3 @@ Demo link:https://inpaintweb.lxfater.com/
 ## Translations via [fink editor](https://inlang.com/m/tdozzpar/app-inlang-editor)
 
 [![inlang status badge](https://inlang.com/badge?url=github.com/lxfater/inpaint-web)](https://inlang.com/editor/github.com/lxfater/inpaint-web?ref=badge)
-
-## About me
-
-### Wechat
-
-<div align="left">
-    <span>联系我之前说明来意，我创业了，时间很宝贵。</span>
-    <img src="https://raw.githubusercontent.com/lxfater/inpaint-web/main/media/wechat.jpg" style="width: 200px; display: inline-block;">
-</div>
-
-### English Content
-
-For updates and discussions in English, follow me on Twitter:
-[![Twitter Follow](https://img.shields.io/twitter/follow/rules4thing?style=social)](https://twitter.com/rules4thing)
-
-### 中文内容
-
-获取中文更新和讨论，请关注我的 Twitter:
-[![Twitter Follow](https://img.shields.io/twitter/follow/lxfater?style=social)](https://twitter.com/lxfater)
-
-## Acknowledgements
-
-Frontend code are modified from [cleanup.pictures](https://github.com/initml/cleanup.pictures), You can experience their
-great online services [here](https://cleanup.pictures/).
-
-Model: https://github.com/Picsart-AI-Research/MI-GAN
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lxfater/inpaint-web&type=Date)](https://star-history.com/#lxfater/inpaint-web&Date)
